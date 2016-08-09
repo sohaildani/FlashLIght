@@ -1,0 +1,30 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/radial_background"
+    tools:context=".MainActivity" >
+
+    <ImageButton
+        android:id="@+id/btnSwitch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dip"
+        android:src="@drawable/btn_switch_on"
+        android:background="@null"
+        android:contentDescription="@null"
+         />
+    
+    <TextView android:text="Dani's FlashLight"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        	android:layout_alignParentBottom="true"
+        	android:layout_centerHorizontal="true"
+        	android:gravity="center"
+        	android:padding="15dip"
+        	android:textSize="13dip"
+        	android:textColor="#3b3b3b"
+        	android:layout_marginBottom="15dip"/>
+
+</RelativeLayout>
