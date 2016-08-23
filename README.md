@@ -2,5 +2,5 @@
 #Android App
 It is a Andrpoid App.My customize flash light app
 #Contributors
-1. Mohd Sohail Khan
+ Mohd Sohail Khan
 
