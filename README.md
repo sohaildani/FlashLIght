@@ -7,7 +7,7 @@ FlashLight is a customize flasllight.
 - For searching
 - In dark nights
 - During Camera pictures and vedios
-- 
+
 ##Required for running app
 ```
 Android SDK version 4.1 or higher
