@@ -9,9 +9,10 @@ FlashLight is a customize flasllight.
 - During Camera pictures and vedios
 
 ##Tools Used
-1.Android Studio
-
-2.JDK 7+
+```
+Android Studio
+JDK 7+
+```
 
 #Contribute
 Contributions are always welcome!
