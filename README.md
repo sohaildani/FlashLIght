@@ -1,4 +1,4 @@
-<img src="flashlight.png" align="center" />
+<img src="flashlight.png" align="right" />
 # FlashLight
 >Android App
 
