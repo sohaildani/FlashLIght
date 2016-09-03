@@ -10,7 +10,7 @@ FlashLight is a customize flasllight.
 
 ##Required for running app
 ```
-Android SDK version 4.1 or higher
+Android version 4.1 or higher
 ```
 ##Tools Used
 ```
