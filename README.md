@@ -1,3 +1,4 @@
+<img src="flashlight.png" align="right" />
 # FlashLight
 >Android App
 
