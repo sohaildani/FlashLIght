@@ -9,7 +9,8 @@ FlashLight is a customize flasllight.
 - During Camera pictures and vedios
 
 #Contribute
-Contributions are always welcome! Please read the contribution guidelines first.
+Contributions are always welcome!
+Please read the [contribution guidelines](contributing.md) first.
 
 
 
