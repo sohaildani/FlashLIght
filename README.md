@@ -10,7 +10,7 @@ FlashLight is a customize flasllight.
 
 #Contribute
 Contributions are always welcome!
-Please read the [contribution guidelines](contributing.md) first.
+Please read the [contribution guidelines](contributor.md) first.
 
 
 
