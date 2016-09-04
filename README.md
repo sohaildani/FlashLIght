@@ -8,12 +8,12 @@ FlashLight is a customize flasllight.
 - In dark nights
 - During Camera pictures and vedios
 
-x
+
 ##Required for running app
 ```
 Android version 4.1 or higher
 ```
-<img src="flashlight.png" align="right" />
+<img src="as.png" align="right" />
 ##Tools Used
 ```
 Android Studio
