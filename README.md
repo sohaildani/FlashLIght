@@ -1,8 +1,8 @@
 <img src="flashlight.png" align="right" />
 # FlashLight
->Android App
+>Android Based App
 
-FlashLight is a customize flasllight.
+FlashLight is a customizable flasllight.
 ##When to use
 - For searching
 - In dark nights
