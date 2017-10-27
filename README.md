@@ -9,6 +9,7 @@ FlashLight is a customizable flasllight.
 - During Camera pictures and vedios
 
 
+
 ##Required for running app
 ```
 Android version 4.1 or higher
